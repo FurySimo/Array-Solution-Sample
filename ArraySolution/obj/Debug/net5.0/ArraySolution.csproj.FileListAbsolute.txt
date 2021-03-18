@@ -1,0 +1,16 @@
+D:\Important Documents\GitHub Codes\C#\ArraySolution\bin\Debug\net5.0\ArraySolution.exe
+D:\Important Documents\GitHub Codes\C#\ArraySolution\bin\Debug\net5.0\ArraySolution.deps.json
+D:\Important Documents\GitHub Codes\C#\ArraySolution\bin\Debug\net5.0\ArraySolution.runtimeconfig.json
+D:\Important Documents\GitHub Codes\C#\ArraySolution\bin\Debug\net5.0\ArraySolution.runtimeconfig.dev.json
+D:\Important Documents\GitHub Codes\C#\ArraySolution\bin\Debug\net5.0\ArraySolution.dll
+D:\Important Documents\GitHub Codes\C#\ArraySolution\bin\Debug\net5.0\ref\ArraySolution.dll
+D:\Important Documents\GitHub Codes\C#\ArraySolution\bin\Debug\net5.0\ArraySolution.pdb
+D:\Important Documents\GitHub Codes\C#\ArraySolution\obj\Debug\net5.0\ArraySolution.csprojAssemblyReference.cache
+D:\Important Documents\GitHub Codes\C#\ArraySolution\obj\Debug\net5.0\ArraySolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important Documents\GitHub Codes\C#\ArraySolution\obj\Debug\net5.0\ArraySolution.AssemblyInfoInputs.cache
+D:\Important Documents\GitHub Codes\C#\ArraySolution\obj\Debug\net5.0\ArraySolution.AssemblyInfo.cs
+D:\Important Documents\GitHub Codes\C#\ArraySolution\obj\Debug\net5.0\ArraySolution.csproj.CoreCompileInputs.cache
+D:\Important Documents\GitHub Codes\C#\ArraySolution\obj\Debug\net5.0\ArraySolution.dll
+D:\Important Documents\GitHub Codes\C#\ArraySolution\obj\Debug\net5.0\ref\ArraySolution.dll
+D:\Important Documents\GitHub Codes\C#\ArraySolution\obj\Debug\net5.0\ArraySolution.pdb
+D:\Important Documents\GitHub Codes\C#\ArraySolution\obj\Debug\net5.0\ArraySolution.genruntimeconfig.cache
